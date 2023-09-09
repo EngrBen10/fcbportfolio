@@ -6,6 +6,11 @@ h1, p {
     font-family: Montserrat, sans-serif;
 }
 
+p {
+    width: 50%;
+    height: auto;
+}
+
 #profile {
     height: 250px;
     width: 250px;
@@ -26,3 +31,4 @@ body {
     justify-content: center;
     align-items: center;
 }
+
