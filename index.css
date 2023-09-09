@@ -7,8 +7,9 @@ h1, p {
 }
 
 p {
-    width: 50%;
+    width: 85%;
     height: auto;
+    text-align: center;
 }
 
 #profile {
